@@ -4,6 +4,54 @@
 
 ## 1 - Getting started with the program
 
+### 1.1 - Welcome to the Google Project Management Certificate
+
+This program includes six industry-relevant courses that focus on topics like:
+
+* Project management fundamentals; 
+
+* Goals, objectives, and deliverables; 
+
+* Risk management; 
+
+* Team dynamics; 
+
+* Project management methodologies; 
+
+* Data-driven decision making; and more.
+
+We'll learn different project methodologies like:
+
+* Agile
+
+* Scrum
+
+* Waterfall
+
+We'll use tools and project management software like:
+
+* Kanban
+
+* Asana
+
+### 1.2 Introduction to Course 1
+
+Course objectives:
+
+* Understand which types of jobs are suitable for you
+
+* Define key project management terms
+
+* Define roles and responsibilities
+
+* Discuss the types of jobs you can pursue
+
+* Define project and project manager
+
+* Define project life cycle
+
+* Describe organizational structures and cultures
+
 ## 2 - Understadning the basics of project management
 
 ### 2.1 - What is project management?
@@ -42,9 +90,13 @@ According to that same study, the industries with the most growth are:
 
 ## 3 - Learning about careers in project management
 
-Question: How many open roles are out there for project managers?
+### 3.1 From certificate to career success
 
-“By the year 2027, employers will need 87.7 million people filling project management aligned roles.”
+*Question: How many open roles are out there for project managers?*
+
+In 2017, a study by the Project Management Institute found that by the year 2027, 
+
+employers will need 87.7 million people filling project management-aligned roles.
 
 According to that same study, the industries with the most growth are:
 
@@ -62,12 +114,16 @@ According to that same study, the industries with the most growth are:
 
 Project managers work in many industries. The skills project managers learn in one industry can be applied in others. Project managers tackle a variety of projects from start to finish.
 
-### Explore project management roles
-
-### Finding the perfect role
-
-[[Reading: Using buzzwords in your job search](https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194daa6e73c2dc0f1_Using-buzzwords-in-your-job-search.pdf?Expires=1666828800&Signature=Y2ow9IuSwhbEAE32KhoWzCem5xQ09Nj3cgruaSpNiwqz2XfsJINNo9o3lhFBQj3MGJnqqSlHDO3kBwdNOAQ8U0fyvCXHOoLQhlmeU6tRwaMKBFzyijKf1kO0BU54UVxA5p6i66PKtlN1LhyDAhw~IxwgGHc8-o6Q1fJXlDC1I48_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)]
 
 
+### Reading: Explore project management roles
+
+
+
+### 3.2 Finding the perfect role
+
+
+
+### [Reading: Using buzzwords in your job search](https://d3c33hcgiwev3.cloudfront.net/WWLypDpZTBmi8qQ6WZwZAA_9799abc55f6f495194daa6e73c2dc0f1_Using-buzzwords-in-your-job-search.pdf?Expires=1666828800&Signature=Y2ow9IuSwhbEAE32KhoWzCem5xQ09Nj3cgruaSpNiwqz2XfsJINNo9o3lhFBQj3MGJnqqSlHDO3kBwdNOAQ8U0fyvCXHOoLQhlmeU6tRwaMKBFzyijKf1kO0BU54UVxA5p6i66PKtlN1LhyDAhw~IxwgGHc8-o6Q1fJXlDC1I48_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 
